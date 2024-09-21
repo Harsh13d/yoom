@@ -30,7 +30,7 @@ Built with the latest Next.js and TypeScript, this project replicates Zoom, a wi
 - Clerk
 - getstream
 - shadcn
-- Tailwind CSS
+
 
 ## <a name="features">🔋 Features</a>
 
